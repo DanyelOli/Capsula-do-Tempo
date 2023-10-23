@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+A capsula do tempo é uma pagina onde podemos colocar nos acontecimentos.
 
 - [Acesse o projeto finalizado, online](https://danyeloli.github.io/Capsula-do-Tempo/)
 
